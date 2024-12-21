@@ -1,4 +1,5 @@
-[[This Obsidian Vault|This]] is a forever incomplete list of my opinions of as many things as I can that I'm aware of. It is especially incomplete now in that I started it very recently. It is an obsidian vault, so it should be readable even without exactly the same markdown dialect or as plain text
+## What this is
+This is a forever incomplete list of my opinions of as many things as I can that I'm aware of. It is especially incomplete now in that I started it very recently. It is an obsidian vault, so it should be readable even without exactly the same markdown dialect or as plain text
 
 ##### Rating Scheme
 Attached to everything I have a written opinion of I have also attached a rating (as an obsidian property, accessible in raw markdown in the yaml at the beginning of the file)

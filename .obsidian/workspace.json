@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "51246d65bb991aa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c8c93afb6d20c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60b7c4f9fa86ce89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Art/Music/Songs/orphan source.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "orphan source"
+            }
+          },
+          {
+            "id": "bf5dfa0324043875",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60ee2b0782dc58ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb1016b719669b26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a004cb14db68db1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2716e4c76c7016ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ae395801d9dc0181",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5d0ac43f552dc452",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dd09b7f6d1cd514",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5db833f0e405653",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Art/Music/Songs/orphan source.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for orphan source"
+            }
+          },
+          {
+            "id": "753ca63d59c17501",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Art/Music/Songs/orphan source.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from orphan source"
+            }
+          },
+          {
+            "id": "fc46824def78c4e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "038e1b9d0d869575",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Art/Music/Songs/orphan source.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of orphan source"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "60b7c4f9fa86ce89",
+  "lastOpenFiles": [
+    "README.md",
+    "Art/Music/Songs/orphan source.md",
+    "Art/Music/Songs/her insides meet gods.md",
+    "Art/Music/Albums/my twee monsters.md",
+    "Art/Music/Music.md",
+    "People/Opinion Havers/Anthony Fantano.md",
+    "Software/Utilities/Web Scrobbler Extension for Firefox.md",
+    "Art/Music/Songs",
+    "Personal Projects/This Obsidian Vault.md",
+    "Art/Music/Albums",
+    "Art/Music",
+    "Art",
+    "Personal Projects",
+    "Software/Utilities",
+    "Software",
+    "People/Opinion Havers",
+    "People",
+    "Welcome.md"
+  ]
+}

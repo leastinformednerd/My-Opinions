@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Non-Art Media/Books/Diagnostic and Statistical Manual of Mental Disorders Fifth Edition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diagnostic and Statistical Manual of Mental Disorders Fifth Edition"
+            }
+          },
+          {
+            "id": "27c8bd0dc00b78d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Art/Music/Songs/orphan source.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "orphan source"
+            }
+          },
+          {
+            "id": "7095a3df423d95da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myself/My Mind/The Possibility I Have ASD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Possibility I Have ASD"
+            }
+          },
+          {
+            "id": "761760e7fdae6718",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Myself/My Mind/My Mind.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "My Mind"
             }
           },
           {
@@ -31,7 +73,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -103,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Music/Songs/orphan source.md",
+                "file": "Art/Music/Songs/endorphin heist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for orphan source"
+              "title": "Backlinks for endorphin heist"
             }
           },
           {
@@ -155,8 +198,7 @@
               "title": "Outline of orphan source"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -173,25 +215,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60b7c4f9fa86ce89",
+  "active": "bf5dfa0324043875",
   "lastOpenFiles": [
-    "README.md",
-    "Art/Music/Songs/orphan source.md",
-    "Art/Music/Songs/her insides meet gods.md",
-    "Art/Music/Albums/my twee monsters.md",
-    "Art/Music/Music.md",
     "People/Opinion Havers/Anthony Fantano.md",
-    "Software/Utilities/Web Scrobbler Extension for Firefox.md",
-    "Art/Music/Songs",
-    "Personal Projects/This Obsidian Vault.md",
-    "Art/Music/Albums",
-    "Art/Music",
-    "Art",
-    "Personal Projects",
-    "Software/Utilities",
-    "Software",
-    "People/Opinion Havers",
-    "People",
-    "Welcome.md"
+    "Art/Music/Songs/orphan source.md",
+    "Non-Art Media/Books/Diagnostic and Statistical Manual of Mental Disorders Fifth Edition.md",
+    "Myself/My Mind/The Possibility I Have ASD.md",
+    "Myself/My Mind/My Mind.md",
+    "Last.fm.md",
+    "Art/Music/Music.md",
+    "Art/Movies/Movies.md",
+    "Art/Music/Untitled.md",
+    "Art/Music/Songs/fireside thaumaturgy.md",
+    "Myself/My Creations/This Obsidian Vault.md",
+    "Myself/Myself.md",
+    "Myself/My Creations",
+    "Myself/My Body",
+    "Myself/My Mind",
+    "Myself",
+    "Art/Music/Artists/tracey brakes.md",
+    "Art/Music/Albums/my twee monsters.md",
+    "Art/Movies/Nobody.md",
+    "Questionaires.md",
+    "Autism.md",
+    "Non-Art Media/Books",
+    "Non-art Written Works/Untitled.md",
+    "Non-Art Media",
+    "Art/Visual Art/Album Covers/my twee monsters album cover.md",
+    "Art/Movies",
+    "Art/Music/Songs/her insides meet gods.md",
+    "Art/Music/Songs/wand of tens.md",
+    "Art/Visual Art/Album Covers",
+    "Art/Visual Art",
+    "Art/Music/Artists",
+    "Art/Music/Genre/Hyperpop.md",
+    "Art/Music/Songs/carbonhead.md",
+    "Art/Music/Songs/behave, hollow automaton.md",
+    "Art/Music/Songs/a fish named justice.md",
+    "README.md"
   ]
 }

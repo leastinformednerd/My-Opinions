@@ -5,4 +5,5 @@ tags:
 related:
   - "[[my twee monsters]]"
   - "[[wand of tens]]"
+  - "[[hyperpop]]"
 ---

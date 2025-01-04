@@ -1,0 +1,6 @@
+---
+rating: 
+tags: 
+related:
+  - "[[Myself]]"
+---

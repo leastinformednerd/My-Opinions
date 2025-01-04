@@ -1,6 +1,7 @@
 ---
 rating: "7"
-tags: 
+tags:
+  - opinion-haver
 related:
   - "[[Music]]"
 ---

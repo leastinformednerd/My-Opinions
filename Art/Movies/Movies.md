@@ -1,5 +1,5 @@
 ---
-rating: "8"
+rating: "7"
 tags: 
 related:
   - "[[Art]]"

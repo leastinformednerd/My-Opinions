@@ -1,0 +1,9 @@
+---
+rating: "8"
+tags:
+  - song
+  - comedy
+related:
+  - "[[Bo Burnham]]"
+---
+I love this song. I think it's both comedic when it wants to but also sincere to great effect. A commenter on the [[Youtube]] video said "Bo Burnham does this thing where he ridicules someone and instantly challenges you for feeling superior." The song starts with a reasonably typical music-comedy skewering of a stereotypical white "girlboss" caricature. A lot of it is someone is to be honest mood-setting filler (not that it could be removed the mood needs to be set!) but there's some reasonable critique of exoticism that does occur (in particular of the adoption the aesthetics of "Asian mysticism" and indigenous North American beliefs). The filler is mostly uninteresting critiques of "cringe" aesthetics, it builds an idea of the type of person that the song is about but I don't think it says anything particularly interesting about the subject (and to be honest is in a lot of ways just as basic as the thing it attempts to critique as such). However I said I love this song, why is that? This is because this section is within the rest song. There's an approximately 30 second  section just after halfway through the song which is framed as a sincere reflection by the "protagonist" about how her life has been going in the decade since her mother has died. I think this both serves as the "switch" of the "bait and switch" of this song (which it successfully lambastes the previous critique for being mean-spirited) and as a genuinely moving sincere emotional core. Without this section I'd give song a 5 or even 4 but it saves the song and impressively elevates the rest of the song around itQ
